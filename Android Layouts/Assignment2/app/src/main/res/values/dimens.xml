@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--main-->
+    <dimen name="divider">50dp</dimen>
+    <dimen name="btnDivider">5dp</dimen>
+    <dimen name="rollno">24sp</dimen>
+    <dimen name="relativePadding">24dp</dimen>
+    <!--signUp-->
+    <dimen name="marginTop">15dp</dimen>
+
+
+
+
+</resources>
