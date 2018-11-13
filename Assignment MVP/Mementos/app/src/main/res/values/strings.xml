@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Mementos</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="password1">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="already">Already Registered?</string>
+    <string name="search">Enter Keyword</string>
+    <string name="go">Go</string>
+    <string name="cmnt">Comment</string>
+    <string name="placeholder">flan flan liked your photo</string>
+    <string name="somebody">Somebody</string>
+    <string name="rating">8.1</string>
+    <string name="rate">Rate</string>
+    <string name="psts">78</string>
+    <string name="flwers">540</string>
+    <string name="flwing">253</string>
+    <string name="fullname">Full Name</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="rating1"> Rating: 7.8</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="ok">OK</string>
+    <string name="follow">Follow</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="rateD">(1 - 10)</string>
+
+
+</resources>

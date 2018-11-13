@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="105dp"
+        android:fontFamily="cursive"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="64sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:onClick="moveToSignUp"
+        android:paddingLeft="54dp"
+        android:paddingRight="54dp"
+        android:text="@string/signup"
+        android:textColor="@android:color/background_light"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/already"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary" />
+
+    <Button
+    android:id="@+id/button1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="15dp"
+    android:background="@color/colorAccent"
+    android:gravity="center"
+    android:onClick="moveToLogIn"
+    android:paddingLeft="59dp"
+    android:paddingRight="59dp"
+    android:text="@string/login"
+    android:textColor="@android:color/background_light"
+    android:textStyle="bold" />
+
+
+
+</LinearLayout>
